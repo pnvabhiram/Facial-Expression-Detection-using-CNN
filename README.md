@@ -15,7 +15,7 @@ This project demonstrates real-time expression detection using deep learning. It
 
 ## Usage
 1. Clone this repository:
-git clone https://github.com/Tushar-Jagatap/Facial-Expression-Detection-using-CNN.git
+git clone https://github.com/pnvabhiram/Facial-Expression-Detection-using-CNN
 
 2. Navigate to the project directory:
 cd Facial-Expression-Detection-using-CNN
@@ -27,3 +27,6 @@ python real_time_run.py
 
 ## Credits
 - The model used in this project is trained using the [FER-2013 dataset](https://www.kaggle.com/deadskull7/fer2013) from Kaggle.
+
+- ## License
+This project is licensed under the MIT License - see the [LICENSE]() file for details.
