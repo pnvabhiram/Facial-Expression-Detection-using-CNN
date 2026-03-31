@@ -27,6 +27,3 @@ python real_time_run.py
 
 ## Credits
 - The model used in this project is trained using the [FER-2013 dataset](https://www.kaggle.com/deadskull7/fer2013) from Kaggle.
-
-- ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
